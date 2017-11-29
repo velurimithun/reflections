@@ -13,10 +13,17 @@ change?
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+	trying new features which you don't need in main version
+
 How do the diagrams help you visualize the branch structure?
+
+	Each commit represents an stage in diagram.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+	You can synchorine to versions perfeclty.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+	conflicts will can be resolved b/w 2 persons to produce perfect code.
